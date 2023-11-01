@@ -13,11 +13,11 @@
 <table>
    <tr>
      <th align="center">
-       <img width="" alt="1" src="https://github.com/kkggee/c-racing-game/assets/95170836/084d2e04-6364-4433-911d-5871de42e486"/>
+       <img width="" alt="1" src="https://github.com/kkggee/c-racing-game/assets/95170836/1adec717-363e-4550-b5c3-fc003ccf737e"/>
        <br>
     </th>
      <th align="center">
-      <img width="" alt="1" src="https://github.com/kkggee/c-racing-game/assets/95170836/8d98f8cf-02e5-45a7-a889-bbcfdc50ce63"/>
+      <img width="" alt="1" src="https://github.com/kkggee/c-racing-game/assets/95170836/218df389-54ce-4723-bfa9-92e507be0d3c"/>
        <br>
     </th>
   </tr>
@@ -26,11 +26,11 @@
 <table>
    <tr>
      <th align="center">
-       <img width="" alt="1" src="https://github.com/kkggee/c-racing-game/assets/95170836/b19dd2d7-5eb6-407a-b8e6-01d18c2ae0e6"/>
+       <img width="" alt="1" src="https://github.com/kkggee/c-racing-game/assets/95170836/a56f2359-9719-42ec-b1dd-3ff8c005fc86"/>
        <br>
     </th>
      <th align="center">
-      <img width="" alt="1" src="https://github.com/kkggee/c-racing-game/assets/95170836/a20d605f-b1a0-4520-aa03-df45a14ca0df"/>
+      <img width="" alt="1" src="https://github.com/kkggee/c-racing-game/assets/95170836/71e35911-a15d-4153-a9dc-f80ca3abd8d9"/>
        <br>
     </th>
   </tr>
